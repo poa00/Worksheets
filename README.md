@@ -18,4 +18,4 @@ $oApp.MailLogon($sName, $sClientIdAndSecret, $sScriptId)
 ;$oApp.Workbooks.Item("Example2").Worksheets.Item("Sheet1").Activate()  
 EndFunc   
 ;==>_Example
-```au3
+```
